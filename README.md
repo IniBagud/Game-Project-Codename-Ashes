@@ -15,3 +15,8 @@ Agus Juhana, S.Pd., M. T.
 NOTE: Seluruh kode yang didapatkan dari pihak lain telah dimodifikasi sesuai dengan kebutuhan.
 Simon Serge Past (logika dasar movement)
 https://assetstore.unity.com/packages/tools/input-management/mini-first-person-controller-174710#description
+
+# Pihak yang Terlibat
+Bagus Sugiantoro Kusnadi(2408919) 
+Candra Pratama Wijaya(2405782) 
+Hassya Novia (2005211)
